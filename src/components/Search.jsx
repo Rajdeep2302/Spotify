@@ -4,7 +4,7 @@ import React from "react";
 import BodyNavbar from "./BodyNavbar";
 import { assets } from "../assets/assets";
 import Songs from "./Songs";
-import Artist from "./artist";
+import Artist from "./Artist";
 import Language from "./Language";
 
 const Search = () => {
