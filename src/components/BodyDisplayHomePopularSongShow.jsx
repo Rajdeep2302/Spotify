@@ -2,9 +2,9 @@ import React from 'react';
 import BodyNavbar from './BodyNavbar';
 import { songsData } from '../assets/assets'; // Ensure this path is correct
 import BodyDisplayHomePopularSong from './BodyDisplayHomePopularSong';
-import Sidebar from './Sidebar';
-import Player from './Player';
-import Sign from './Sign';
+// import Sidebar from './Sidebar';
+// import Player from './Player';
+// import Sign from './Sign';
 
 const BodyDisplayHomePopularSongShow = () => {
   return (

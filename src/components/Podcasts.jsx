@@ -2,9 +2,9 @@
 
 import React from "react";
 import BodyNavbar from "./BodyNavbar";
-import Sidebar from "./Sidebar";
-import Player from "./Player";
-import Sign from "./Sign";
+// import Sidebar from "./Sidebar";
+// import Player from "./Player";
+// import Sign from "./Sign";
 
 const Podcasts = () => {
   return (

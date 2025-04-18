@@ -4,9 +4,9 @@ import React from "react";
 import BodyNavbar from "./BodyNavbar";
 import { popularAlbumsData } from "../assets/assets";
 import BodyDisplayHomePopularAlbum from "./BodyDisplayHomePopularAlbum";
-import Player from "./Player";
-import Sign from "./Sign";
-import Sidebar from "./Sidebar";
+// import Player from "./Player";
+// import Sign from "./Sign";
+// import Sidebar from "./Sidebar";
 
 const BodyDisplayHomePopularAlbumShow = () => {
   return (

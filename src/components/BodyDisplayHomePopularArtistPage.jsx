@@ -4,9 +4,9 @@ import React, { useContext } from "react";
 import BodyNavbar from "./BodyNavbar";
 import { useParams } from "react-router-dom";
 import { albumsData, assets, songsData } from "../assets/assets"; // Make sure albumsData is imported from the correct file
-import Player from "./Player";
-import Sign from "./Sign";
-import Sidebar from "./Sidebar";
+// import Player from "./Player";
+// import Sign from "./Sign";
+// import Sidebar from "./Sidebar";
 import { PlayerContext } from "../context/PlayerContext";
 
 const BodyDisplayHomePopularArtistPage = () => {

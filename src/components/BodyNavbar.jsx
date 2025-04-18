@@ -3,7 +3,7 @@
 import React from "react";
 import { assets } from "../assets/assets";
 import { useNavigate, useLocation } from "react-router-dom"; // Import useLocation
-import SignUp from "./SignUp";
+// import SignUp from "./SignUp";
 
 const BodyNavbar = () => {
   const navigate = useNavigate();
