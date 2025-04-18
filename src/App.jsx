@@ -6,15 +6,15 @@ import SignUp from "./components/SignUp";
 import Reset from "./components/Reset";
 import SignUpVerify from "./components/SignUpVerify"; 
 import { albumsData } from "./assets/assets";
-import BodyDisplayHomePopularArtistShow from "./components/BodyDisplayHomePopularArtistShow";
-import BodyDisplayHomePopularAlbumShow from "./components/BodyDisplayHomePopularAlbumShow";
-import BodyDisplayHomePopularSongShow from "./components/BodyDisplayHomePopularSongShow";
+// import BodyDisplayHomePopularArtistShow from "./components/BodyDisplayHomePopularArtistShow";
+// import BodyDisplayHomePopularAlbumShow from "./components/BodyDisplayHomePopularAlbumShow";
+// import BodyDisplayHomePopularSongShow from "./components/BodyDisplayHomePopularSongShow";
 // import Podcasts from "./components/podcasts";
-import Search from "./components/search";
-import BodyDisplayHomePopularArtistPage from "./components/BodyDisplayHomePopularArtistPage";
-import BodyDisplayHomePopularAlbumPage from "./components/BodyDisplayHomePopularAlbumPage";
-import Player from "./components/Player";
-import Sign from "./components/Sign"; 
+// import Search from "./components/search";
+// import BodyDisplayHomePopularArtistPage from "./components/BodyDisplayHomePopularArtistPage";
+// import BodyDisplayHomePopularAlbumPage from "./components/BodyDisplayHomePopularAlbumPage";
+// import Player from "./components/Player";
+// import Sign from "./components/Sign"; 
 import { PlayerContext } from "./context/PlayerContext";
 
 const App = () => {
