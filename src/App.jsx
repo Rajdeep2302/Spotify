@@ -9,7 +9,7 @@ import { albumsData } from "./assets/assets";
 import BodyDisplayHomePopularArtistShow from "./components/BodyDisplayHomePopularArtistShow";
 import BodyDisplayHomePopularAlbumShow from "./components/BodyDisplayHomePopularAlbumShow";
 import BodyDisplayHomePopularSongShow from "./components/BodyDisplayHomePopularSongShow";
-import Podcasts from "./components/podcasts";
+// import Podcasts from "./components/podcasts";
 import Search from "./components/search";
 import BodyDisplayHomePopularArtistPage from "./components/BodyDisplayHomePopularArtistPage";
 import BodyDisplayHomePopularAlbumPage from "./components/BodyDisplayHomePopularAlbumPage";
